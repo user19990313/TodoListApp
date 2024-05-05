@@ -1,0 +1,36 @@
+@TodoListApp.Server_HostAddress = http://localhost:5231
+
+GET {{TodoListApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{TodoListApp.Server_HostAddress}}/api/todolist
+
+###
+
+POST {{TodoListApp.Server_HostAddress}}/api/todolist/create
+Content-Type: application/json
+
+"string"
+
+###
+
+GET {{TodoListApp.Server_HostAddress}}/api/todolist/0
+
+###
+
+GET {{TodoListApp.Server_HostAddress}}/api/todolist/0/toggle
+
+###
+
+POST {{TodoListApp.Server_HostAddress}}/api/todolist/0/edit
+Content-Type: application/json
+
+"string2"
+
+###
+
+GET {{TodoListApp.Server_HostAddress}}/api/todolist/0/delete
+
+###

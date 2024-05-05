@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD657705-A52A-47A0-8A13-9BDF0E4D1807}|TodoListApp.Server\\TodoListApp.Server.csproj|c:\\users\\lza\\desktop\\workspace\\todolistapp\\todolistapp.server\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BD657705-A52A-47A0-8A13-9BDF0E4D1807}|TodoListApp.Server\\TodoListApp.Server.csproj|solutionrelative:todolistapp.server\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41DEA44-1F9A-4BED-8656-3D89265B9B6E}|todolistapp.client\\todolistapp.client.esproj|c:\\users\\lza\\desktop\\workspace\\todolistapp\\todolistapp.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A41DEA44-1F9A-4BED-8656-3D89265B9B6E}|todolistapp.client\\todolistapp.client.esproj|solutionrelative:todolistapp.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41DEA44-1F9A-4BED-8656-3D89265B9B6E}|todolistapp.client\\todolistapp.client.esproj|c:\\users\\lza\\desktop\\workspace\\todolistapp\\todolistapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A41DEA44-1F9A-4BED-8656-3D89265B9B6E}|todolistapp.client\\todolistapp.client.esproj|solutionrelative:todolistapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD657705-A52A-47A0-8A13-9BDF0E4D1807}|TodoListApp.Server\\TodoListApp.Server.csproj|c:\\users\\lza\\desktop\\workspace\\todolistapp\\todolistapp.server\\todolistapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BD657705-A52A-47A0-8A13-9BDF0E4D1807}|TodoListApp.Server\\TodoListApp.Server.csproj|solutionrelative:todolistapp.server\\todolistapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD657705-A52A-47A0-8A13-9BDF0E4D1807}|TodoListApp.Server\\TodoListApp.Server.csproj|c:\\users\\lza\\desktop\\workspace\\todolistapp\\todolistapp.server\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD657705-A52A-47A0-8A13-9BDF0E4D1807}|TodoListApp.Server\\TodoListApp.Server.csproj|solutionrelative:todolistapp.server\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41DEA44-1F9A-4BED-8656-3D89265B9B6E}|todolistapp.client\\todolistapp.client.esproj|c:\\users\\lza\\desktop\\workspace\\todolistapp\\todolistapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A41DEA44-1F9A-4BED-8656-3D89265B9B6E}|todolistapp.client\\todolistapp.client.esproj|solutionrelative:todolistapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41DEA44-1F9A-4BED-8656-3D89265B9B6E}|todolistapp.client\\todolistapp.client.esproj|c:\\users\\lza\\desktop\\workspace\\todolistapp\\todolistapp.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A41DEA44-1F9A-4BED-8656-3D89265B9B6E}|todolistapp.client\\todolistapp.client.esproj|solutionrelative:todolistapp.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD657705-A52A-47A0-8A13-9BDF0E4D1807}|TodoListApp.Server\\TodoListApp.Server.csproj|c:\\users\\lza\\desktop\\workspace\\todolistapp\\todolistapp.server\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD657705-A52A-47A0-8A13-9BDF0E4D1807}|TodoListApp.Server\\TodoListApp.Server.csproj|solutionrelative:todolistapp.server\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41DEA44-1F9A-4BED-8656-3D89265B9B6E}|todolistapp.client\\todolistapp.client.esproj|c:\\users\\lza\\desktop\\workspace\\todolistapp\\todolistapp.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A41DEA44-1F9A-4BED-8656-3D89265B9B6E}|todolistapp.client\\todolistapp.client.esproj|solutionrelative:todolistapp.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD657705-A52A-47A0-8A13-9BDF0E4D1807}|TodoListApp.Server\\TodoListApp.Server.csproj|c:\\users\\lza\\desktop\\workspace\\todolistapp\\todolistapp.server\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD657705-A52A-47A0-8A13-9BDF0E4D1807}|TodoListApp.Server\\TodoListApp.Server.csproj|solutionrelative:todolistapp.server\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\TodoListApp.Server\\.gitignore",
+              "RelativeDocumentMoniker": "TodoListApp.Server\\.gitignore",
+              "ToolTip": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\TodoListApp.Server\\.gitignore",
+              "RelativeToolTip": "TodoListApp.Server\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-05T11:56:09.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\todolistapp.client\\README.md",
+              "RelativeDocumentMoniker": "todolistapp.client\\README.md",
+              "ToolTip": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\todolistapp.client\\README.md",
+              "RelativeToolTip": "todolistapp.client\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-05T11:07:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\todolistapp.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "todolistapp.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\todolistapp.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "todolistapp.client\\src\\proxy.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-05T03:01:41.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\todolistapp.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "todolistapp.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\todolistapp.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "todolistapp.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-04T23:57:57.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoListController.cs",
+              "DocumentMoniker": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\TodoListApp.Server\\Controllers\\TodoListController.cs",
+              "RelativeDocumentMoniker": "TodoListApp.Server\\Controllers\\TodoListController.cs",
+              "ToolTip": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\TodoListApp.Server\\Controllers\\TodoListController.cs",
+              "RelativeToolTip": "TodoListApp.Server\\Controllers\\TodoListController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:16:23.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\TodoListApp.Server\\Database.cs",
+              "RelativeDocumentMoniker": "TodoListApp.Server\\Database.cs",
+              "ToolTip": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\TodoListApp.Server\\Database.cs",
+              "RelativeToolTip": "TodoListApp.Server\\Database.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:21:13.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\todolistapp.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "todolistapp.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\todolistapp.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "todolistapp.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwC8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-04T23:58:31.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoListApp.Server.http",
+              "DocumentMoniker": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\TodoListApp.Server\\TodoListApp.Server.http",
+              "RelativeDocumentMoniker": "TodoListApp.Server\\TodoListApp.Server.http",
+              "ToolTip": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\TodoListApp.Server\\TodoListApp.Server.http",
+              "RelativeToolTip": "TodoListApp.Server\\TodoListApp.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-05T01:16:31.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\todolistapp.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "todolistapp.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\todolistapp.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "todolistapp.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-05T10:45:55.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\TodoListApp.Server\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoListApp.Server\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\LzA\\Desktop\\Workspace\\TodoListApp\\TodoListApp.Server\\TodoItem.cs",
+              "RelativeToolTip": "TodoListApp.Server\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T10:43:31.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

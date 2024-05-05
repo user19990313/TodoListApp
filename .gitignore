@@ -1,0 +1,7 @@
+todolistapp.client/dist
+todolistapp.client/node_modules
+todolistapp.client/.angular/cache
+todolistapp.client/.vscode
+todolistapp.client/obj
+TodoListApp.Server/bin
+TodoListApp.Server/obj

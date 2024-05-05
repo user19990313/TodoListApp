@@ -1,0 +1,26 @@
+<h1 id="tableLabel">TODO list</h1>
+
+<table *ngIf="todolist">
+    <thead>
+        <tr>
+            <!--<th>Id</th>-->
+            <th>Title</th>
+            <th>Done</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of todolist">
+            <!--<td>{{item.id}}</td>-->
+            <td>{{item.title}}</td>
+            <td><input type="checkbox" [checked]="item.isCompleted" (change)="toggleItem(item)" /></td>
+            <td><button (click)="editItem(item)">Edit</button><button (click)="deleteItem(item)">Delete</button></td>
+        </tr>
+        <tr>
+            <!--<td>+</td>-->
+            <td><input ngModel #newItemTitle /></td>
+            <td><button (click)="addItem()">Add</button></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
